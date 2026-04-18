@@ -159,8 +159,6 @@ cask 'zerotier-one'
 
 tap 'homebrew/bundle'
 
-tap 'homebrew/cask-fonts'
-
 tap 'homebrew/cask-versions'
 
 tap 'buo/cask-upgrade'
